@@ -1,8 +1,10 @@
-spring
-  application
+spring:
+  application:
     name: common-lib
-app
+
+app:
   version: 1.0.0
 
-server
+server:
   port: 8081
+
